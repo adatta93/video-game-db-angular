@@ -1,6 +1,10 @@
 # VideoGameDb
 
+This project connects to RAWG API (https://rawg.io/) in RapidAPI (https://rapidapi.com/accujazz/api/rawg-video-games-database/details) to fetch all the games. Clicking on each game navigates to the details page.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
+
+It uses Angular Material for styling
 
 ## Development server
 
